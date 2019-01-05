@@ -1,0 +1,868 @@
+Alpha Beta Game
+   a   b   c   d   e
+
+5║ ░ | O | ░ | ░ | ░ |║5
+ 
+4║ ░ | ░ | ░ | ░ | # |║4
+ 
+3║ ░ | ░ | ░ | ░ | ░ |║3
+ 
+2║ O | ░ | ░ | ░ | ░ |║2
+ 
+1║ ░ | ░ | ░ | # | ░ |║1
+ 
+   a   b   c   d   e
+Your Turn..(Play : 0)
+   a   b   c   d   e
+
+5║ ░ | O | ░ | ░ | ░ |║5
+ 
+4║ ░ | ░ | ░ | ░ | ░ |║4
+ 
+3║ ░ | ░ | ░ | ░ | ░ |║3
+ 
+2║ O | ░ | ░ | ░ | X |║2
+ 
+1║ ░ | ░ | ░ | # | # |║1
+ 
+   a   b   c   d   e
+Computer's Turn..(Play : 1)
+   a   b   c   d   e
+
+5║ ░ | ░ | ░ | ░ | ░ |║5
+ 
+4║ ░ | ░ | ░ | ░ | ░ |║4
+ 
+3║ ░ | ░ | ░ | ░ | ░ |║3
+ 
+2║ O | O | ░ | ░ | X |║2
+ 
+1║ ░ | ░ | X | # | # |║1
+ 
+   a   b   c   d   e
+Your Turn..(Play : 2)
+   a   b   c   d   e
+
+5║ ░ | ░ | ░ | ░ | ░ |║5
+ 
+4║ ░ | ░ | ░ | ░ | ░ |║4
+ 
+3║ ░ | ░ | ░ | ░ | ░ |║3
+ 
+2║ O | O | ░ | # | X |║2
+ 
+1║ ░ | ░ | X | X | # |║1
+ 
+   a   b   c   d   e
+Computer's Turn..(Play : 3)
+   a   b   c   d   e
+
+5║ ░ | ░ | ░ | ░ | ░ |║5
+ 
+4║ ░ | ░ | ░ | ░ | ░ |║4
+ 
+3║ ░ | ░ | ░ | ░ | ░ |║3
+ 
+2║ ░ | O | ░ | # | X |║2
+ 
+1║ X | O | X | X | # |║1
+ 
+   a   b   c   d   e
+Your Turn..(Play : 4)
+   a   b   c   d   e
+
+5║ ░ | ░ | ░ | ░ | ░ |║5
+ 
+4║ ░ | ░ | ░ | ░ | ░ |║4
+ 
+3║ ░ | ░ | ░ | ░ | ░ |║3
+ 
+2║ ░ | O | # | X | X |║2
+ 
+1║ X | O | X | X | # |║1
+ 
+   a   b   c   d   e
+Computer's Turn..(Play : 5)
+   a   b   c   d   e
+
+5║ ░ | ░ | ░ | ░ | ░ |║5
+ 
+4║ ░ | ░ | ░ | ░ | ░ |║4
+ 
+3║ ░ | ░ | ░ | ░ | ░ |║3
+ 
+2║ O | X | # | X | X |║2
+ 
+1║ X | O | X | X | # |║1
+ 
+   a   b   c   d   e
+Your Turn..(Play : 6)
+   a   b   c   d   e
+
+5║ ░ | ░ | ░ | ░ | ░ |║5
+ 
+4║ ░ | ░ | ░ | ░ | ░ |║4
+ 
+3║ ░ | ░ | ░ | # | ░ |║3
+ 
+2║ O | X | X | X | X |║2
+ 
+1║ X | O | X | X | # |║1
+ 
+   a   b   c   d   e
+Computer's Turn..(Play : 7)
+   a   b   c   d   e
+
+5║ ░ | ░ | ░ | ░ | ░ |║5
+ 
+4║ ░ | ░ | ░ | ░ | ░ |║4
+ 
+3║ ░ | O | ░ | # | ░ |║3
+ 
+2║ X | X | X | X | X |║2
+ 
+1║ X | O | X | X | # |║1
+ 
+   a   b   c   d   e
+Your Turn..(Play : 8)
+   a   b   c   d   e
+
+5║ ░ | ░ | ░ | ░ | ░ |║5
+ 
+4║ ░ | ░ | ░ | ░ | ░ |║4
+ 
+3║ ░ | O | ░ | X | # |║3
+ 
+2║ X | X | X | X | X |║2
+ 
+1║ X | O | X | X | # |║1
+ 
+   a   b   c   d   e
+Computer's Turn..(Play : 9)
+   a   b   c   d   e
+
+5║ ░ | ░ | ░ | ░ | ░ |║5
+ 
+4║ ░ | ░ | ░ | ░ | ░ |║4
+ 
+3║ ░ | X | O | X | # |║3
+ 
+2║ X | X | X | X | X |║2
+ 
+1║ X | O | X | X | # |║1
+ 
+   a   b   c   d   e
+Your Turn..(Play : 10)
+   a   b   c   d   e
+
+5║ ░ | ░ | ░ | ░ | ░ |║5
+ 
+4║ ░ | ░ | ░ | ░ | # |║4
+ 
+3║ ░ | X | O | X | X |║3
+ 
+2║ X | X | X | X | X |║2
+ 
+1║ X | O | X | X | # |║1
+ 
+   a   b   c   d   e
+Computer's Turn..(Play : 11)
+   a   b   c   d   e
+
+5║ ░ | ░ | ░ | ░ | ░ |║5
+ 
+4║ ░ | ░ | ░ | O | # |║4
+ 
+3║ ░ | X | X | X | X |║3
+ 
+2║ X | X | X | X | X |║2
+ 
+1║ X | O | X | X | # |║1
+ 
+   a   b   c   d   e
+Your Turn..(Play : 12)
+   a   b   c   d   e
+
+5║ ░ | ░ | ░ | ░ | # |║5
+ 
+4║ ░ | ░ | ░ | O | X |║4
+ 
+3║ ░ | X | X | X | X |║3
+ 
+2║ X | X | X | X | X |║2
+ 
+1║ X | O | X | X | # |║1
+ 
+   a   b   c   d   e
+Computer's Turn..(Play : 13)
+   a   b   c   d   e
+
+5║ ░ | ░ | ░ | ░ | # |║5
+ 
+4║ ░ | ░ | O | X | X |║4
+ 
+3║ ░ | X | X | X | X |║3
+ 
+2║ X | X | X | X | X |║2
+ 
+1║ X | O | X | X | # |║1
+ 
+   a   b   c   d   e
+Your Turn..(Play : 14)
+   a   b   c   d   e
+
+5║ ░ | ░ | ░ | # | X |║5
+ 
+4║ ░ | ░ | O | X | X |║4
+ 
+3║ ░ | X | X | X | X |║3
+ 
+2║ X | X | X | X | X |║2
+ 
+1║ X | O | X | X | # |║1
+ 
+   a   b   c   d   e
+Computer's Turn..(Play : 15)
+   a   b   c   d   e
+
+5║ ░ | ░ | ░ | # | X |║5
+ 
+4║ ░ | O | ░ | X | X |║4
+ 
+3║ X | X | X | X | X |║3
+ 
+2║ X | X | X | X | X |║2
+ 
+1║ X | O | X | X | # |║1
+ 
+   a   b   c   d   e
+Your Turn..(Play : 16)
+   a   b   c   d   e
+
+5║ ░ | ░ | ░ | X | X |║5
+ 
+4║ ░ | O | # | X | X |║4
+ 
+3║ X | X | X | X | X |║3
+ 
+2║ X | X | X | X | X |║2
+ 
+1║ X | O | X | X | # |║1
+ 
+   a   b   c   d   e
+Computer's Turn..(Play : 17)
+   a   b   c   d   e
+
+5║ ░ | ░ | ░ | X | X |║5
+ 
+4║ O | X | # | X | X |║4
+ 
+3║ X | X | X | X | X |║3
+ 
+2║ X | X | X | X | X |║2
+ 
+1║ X | O | X | X | # |║1
+ 
+   a   b   c   d   e
+Your Turn..(Play : 18)
+   a   b   c   d   e
+
+5║ ░ | ░ | # | X | X |║5
+ 
+4║ O | X | X | X | X |║4
+ 
+3║ X | X | X | X | X |║3
+ 
+2║ X | X | X | X | X |║2
+ 
+1║ X | O | X | X | # |║1
+ 
+   a   b   c   d   e
+Computer's Turn..(Play : 19)
+   a   b   c   d   e
+
+5║ ░ | O | # | X | X |║5
+ 
+4║ X | X | X | X | X |║4
+ 
+3║ X | X | X | X | X |║3
+ 
+2║ X | X | X | X | X |║2
+ 
+1║ X | O | X | X | # |║1
+ 
+   a   b   c   d   e
+The Computer Won!
+The number of calls to static evaluation were :4552475
+Alpha Beta + Killer Heuristic Game
+   a   b   c   d   e
+
+5║ ░ | O | ░ | ░ | ░ |║5
+ 
+4║ ░ | ░ | ░ | ░ | # |║4
+ 
+3║ ░ | ░ | ░ | ░ | ░ |║3
+ 
+2║ O | ░ | ░ | ░ | ░ |║2
+ 
+1║ ░ | ░ | ░ | # | ░ |║1
+ 
+   a   b   c   d   e
+Your Turn..(Play : 0)
+   a   b   c   d   e
+
+5║ ░ | O | ░ | ░ | ░ |║5
+ 
+4║ ░ | ░ | ░ | ░ | ░ |║4
+ 
+3║ ░ | ░ | ░ | ░ | ░ |║3
+ 
+2║ O | ░ | ░ | ░ | X |║2
+ 
+1║ ░ | ░ | ░ | # | # |║1
+ 
+   a   b   c   d   e
+Computer's Turn..(Play : 1)
+   a   b   c   d   e
+
+5║ ░ | ░ | ░ | ░ | ░ |║5
+ 
+4║ ░ | ░ | ░ | ░ | ░ |║4
+ 
+3║ ░ | ░ | ░ | ░ | ░ |║3
+ 
+2║ O | O | ░ | ░ | X |║2
+ 
+1║ ░ | X | ░ | # | # |║1
+ 
+   a   b   c   d   e
+Your Turn..(Play : 2)
+   a   b   c   d   e
+
+5║ ░ | ░ | ░ | ░ | ░ |║5
+ 
+4║ ░ | ░ | ░ | ░ | ░ |║4
+ 
+3║ ░ | ░ | ░ | ░ | ░ |║3
+ 
+2║ O | O | ░ | ░ | X |║2
+ 
+1║ ░ | X | # | X | # |║1
+ 
+   a   b   c   d   e
+Computer's Turn..(Play : 3)
+   a   b   c   d   e
+
+5║ ░ | ░ | ░ | ░ | ░ |║5
+ 
+4║ ░ | ░ | ░ | ░ | ░ |║4
+ 
+3║ X | ░ | ░ | ░ | ░ |║3
+ 
+2║ ░ | O | ░ | ░ | X |║2
+ 
+1║ O | X | # | X | # |║1
+ 
+   a   b   c   d   e
+Your Turn..(Play : 4)
+   a   b   c   d   e
+
+5║ ░ | ░ | ░ | ░ | ░ |║5
+ 
+4║ ░ | ░ | ░ | ░ | ░ |║4
+ 
+3║ X | ░ | ░ | ░ | ░ |║3
+ 
+2║ ░ | O | ░ | # | X |║2
+ 
+1║ O | X | X | X | # |║1
+ 
+   a   b   c   d   e
+Computer's Turn..(Play : 5)
+   a   b   c   d   e
+
+5║ ░ | ░ | ░ | ░ | ░ |║5
+ 
+4║ ░ | ░ | ░ | ░ | ░ |║4
+ 
+3║ X | ░ | ░ | ░ | ░ |║3
+ 
+2║ X | ░ | O | # | X |║2
+ 
+1║ O | X | X | X | # |║1
+ 
+   a   b   c   d   e
+Your Turn..(Play : 6)
+   a   b   c   d   e
+
+5║ ░ | ░ | ░ | ░ | ░ |║5
+ 
+4║ ░ | ░ | ░ | ░ | ░ |║4
+ 
+3║ X | ░ | ░ | ░ | # |║3
+ 
+2║ X | ░ | O | X | X |║2
+ 
+1║ O | X | X | X | # |║1
+ 
+   a   b   c   d   e
+Computer's Turn..(Play : 7)
+   a   b   c   d   e
+
+5║ ░ | ░ | ░ | ░ | ░ |║5
+ 
+4║ ░ | ░ | ░ | ░ | ░ |║4
+ 
+3║ X | ░ | ░ | ░ | # |║3
+ 
+2║ X | O | X | X | X |║2
+ 
+1║ O | X | X | X | # |║1
+ 
+   a   b   c   d   e
+Your Turn..(Play : 8)
+   a   b   c   d   e
+
+5║ ░ | ░ | ░ | ░ | ░ |║5
+ 
+4║ ░ | ░ | ░ | X | ░ |║4
+ 
+3║ X | ░ | ░ | # | ░ |║3
+ 
+2║ X | O | X | X | X |║2
+ 
+1║ O | X | X | X | # |║1
+ 
+   a   b   c   d   e
+Computer's Turn..(Play : 9)
+   a   b   c   d   e
+
+5║ ░ | ░ | ░ | ░ | ░ |║5
+ 
+4║ ░ | ░ | ░ | X | ░ |║4
+ 
+3║ X | X | O | # | ░ |║3
+ 
+2║ X | ░ | X | X | X |║2
+ 
+1║ O | X | X | X | # |║1
+ 
+   a   b   c   d   e
+Your Turn..(Play : 10)
+   a   b   c   d   e
+
+5║ ░ | ░ | ░ | ░ | ░ |║5
+ 
+4║ ░ | ░ | ░ | X | ░ |║4
+ 
+3║ X | X | O | X | # |║3
+ 
+2║ X | ░ | X | X | X |║2
+ 
+1║ O | X | X | X | # |║1
+ 
+   a   b   c   d   e
+Computer's Turn..(Play : 11)
+   a   b   c   d   e
+
+5║ ░ | ░ | ░ | ░ | ░ |║5
+ 
+4║ ░ | ░ | O | X | ░ |║4
+ 
+3║ X | X | X | X | # |║3
+ 
+2║ X | ░ | X | X | X |║2
+ 
+1║ O | X | X | X | # |║1
+ 
+   a   b   c   d   e
+Your Turn..(Play : 12)
+   a   b   c   d   e
+
+5║ ░ | ░ | ░ | ░ | ░ |║5
+ 
+4║ ░ | ░ | O | X | # |║4
+ 
+3║ X | X | X | X | X |║3
+ 
+2║ X | ░ | X | X | X |║2
+ 
+1║ O | X | X | X | # |║1
+ 
+   a   b   c   d   e
+Computer's Turn..(Play : 13)
+   a   b   c   d   e
+
+5║ ░ | ░ | ░ | ░ | ░ |║5
+ 
+4║ X | O | ░ | X | # |║4
+ 
+3║ X | X | X | X | X |║3
+ 
+2║ X | ░ | X | X | X |║2
+ 
+1║ O | X | X | X | # |║1
+ 
+   a   b   c   d   e
+Your Turn..(Play : 14)
+   a   b   c   d   e
+
+5║ ░ | ░ | ░ | ░ | # |║5
+ 
+4║ X | O | ░ | X | X |║4
+ 
+3║ X | X | X | X | X |║3
+ 
+2║ X | ░ | X | X | X |║2
+ 
+1║ O | X | X | X | # |║1
+ 
+   a   b   c   d   e
+Computer's Turn..(Play : 15)
+   a   b   c   d   e
+
+5║ ░ | ░ | X | ░ | # |║5
+ 
+4║ X | ░ | O | X | X |║4
+ 
+3║ X | X | X | X | X |║3
+ 
+2║ X | ░ | X | X | X |║2
+ 
+1║ O | X | X | X | # |║1
+ 
+   a   b   c   d   e
+Your Turn..(Play : 16)
+   a   b   c   d   e
+
+5║ ░ | ░ | X | # | X |║5
+ 
+4║ X | ░ | O | X | X |║4
+ 
+3║ X | X | X | X | X |║3
+ 
+2║ X | ░ | X | X | X |║2
+ 
+1║ O | X | X | X | # |║1
+ 
+   a   b   c   d   e
+The Computer Won!
+The number of calls to static evaluation were :154692
+Alpha Beta + History Heuristic Game
+   a   b   c   d   e
+
+5║ ░ | O | ░ | ░ | ░ |║5
+ 
+4║ ░ | ░ | ░ | ░ | # |║4
+ 
+3║ ░ | ░ | ░ | ░ | ░ |║3
+ 
+2║ O | ░ | ░ | ░ | ░ |║2
+ 
+1║ ░ | ░ | ░ | # | ░ |║1
+ 
+   a   b   c   d   e
+Your Turn..(Play : 0)
+   a   b   c   d   e
+
+5║ ░ | O | ░ | ░ | ░ |║5
+ 
+4║ ░ | ░ | ░ | ░ | ░ |║4
+ 
+3║ ░ | ░ | ░ | ░ | ░ |║3
+ 
+2║ O | ░ | ░ | ░ | X |║2
+ 
+1║ ░ | ░ | ░ | # | # |║1
+ 
+   a   b   c   d   e
+Computer's Turn..(Play : 1)
+   a   b   c   d   e
+
+5║ ░ | ░ | ░ | ░ | ░ |║5
+ 
+4║ ░ | ░ | ░ | ░ | ░ |║4
+ 
+3║ ░ | ░ | ░ | ░ | ░ |║3
+ 
+2║ O | O | ░ | ░ | X |║2
+ 
+1║ ░ | X | ░ | # | # |║1
+ 
+   a   b   c   d   e
+Your Turn..(Play : 2)
+   a   b   c   d   e
+
+5║ ░ | ░ | ░ | ░ | ░ |║5
+ 
+4║ ░ | ░ | ░ | ░ | ░ |║4
+ 
+3║ ░ | ░ | ░ | ░ | ░ |║3
+ 
+2║ O | O | ░ | ░ | X |║2
+ 
+1║ ░ | X | # | X | # |║1
+ 
+   a   b   c   d   e
+Computer's Turn..(Play : 3)
+   a   b   c   d   e
+
+5║ ░ | ░ | ░ | ░ | ░ |║5
+ 
+4║ ░ | ░ | ░ | ░ | ░ |║4
+ 
+3║ X | ░ | ░ | ░ | ░ |║3
+ 
+2║ ░ | O | ░ | ░ | X |║2
+ 
+1║ O | X | # | X | # |║1
+ 
+   a   b   c   d   e
+Your Turn..(Play : 4)
+   a   b   c   d   e
+
+5║ ░ | ░ | ░ | ░ | ░ |║5
+ 
+4║ ░ | ░ | ░ | ░ | ░ |║4
+ 
+3║ X | ░ | ░ | ░ | ░ |║3
+ 
+2║ ░ | O | ░ | # | X |║2
+ 
+1║ O | X | X | X | # |║1
+ 
+   a   b   c   d   e
+Computer's Turn..(Play : 5)
+   a   b   c   d   e
+
+5║ ░ | ░ | ░ | ░ | ░ |║5
+ 
+4║ ░ | ░ | ░ | ░ | ░ |║4
+ 
+3║ X | ░ | ░ | ░ | ░ |║3
+ 
+2║ X | ░ | O | # | X |║2
+ 
+1║ O | X | X | X | # |║1
+ 
+   a   b   c   d   e
+Your Turn..(Play : 6)
+   a   b   c   d   e
+
+5║ ░ | ░ | ░ | ░ | ░ |║5
+ 
+4║ ░ | ░ | ░ | ░ | ░ |║4
+ 
+3║ X | ░ | ░ | ░ | # |║3
+ 
+2║ X | ░ | O | X | X |║2
+ 
+1║ O | X | X | X | # |║1
+ 
+   a   b   c   d   e
+Computer's Turn..(Play : 7)
+   a   b   c   d   e
+
+5║ ░ | ░ | ░ | ░ | ░ |║5
+ 
+4║ ░ | ░ | ░ | ░ | ░ |║4
+ 
+3║ X | ░ | ░ | ░ | # |║3
+ 
+2║ X | O | X | X | X |║2
+ 
+1║ O | X | X | X | # |║1
+ 
+   a   b   c   d   e
+Your Turn..(Play : 8)
+   a   b   c   d   e
+
+5║ ░ | X | ░ | ░ | ░ |║5
+ 
+4║ ░ | ░ | ░ | ░ | ░ |║4
+ 
+3║ X | ░ | ░ | # | ░ |║3
+ 
+2║ X | O | X | X | X |║2
+ 
+1║ O | X | X | X | # |║1
+ 
+   a   b   c   d   e
+Computer's Turn..(Play : 9)
+   a   b   c   d   e
+
+5║ ░ | X | ░ | ░ | ░ |║5
+ 
+4║ ░ | ░ | ░ | ░ | ░ |║4
+ 
+3║ X | X | O | # | ░ |║3
+ 
+2║ X | ░ | X | X | X |║2
+ 
+1║ O | X | X | X | # |║1
+ 
+   a   b   c   d   e
+Your Turn..(Play : 10)
+   a   b   c   d   e
+
+5║ ░ | X | ░ | ░ | ░ |║5
+ 
+4║ ░ | ░ | ░ | ░ | ░ |║4
+ 
+3║ X | X | O | X | # |║3
+ 
+2║ X | ░ | X | X | X |║2
+ 
+1║ O | X | X | X | # |║1
+ 
+   a   b   c   d   e
+Computer's Turn..(Play : 11)
+   a   b   c   d   e
+
+5║ ░ | X | ░ | ░ | ░ |║5
+ 
+4║ ░ | ░ | ░ | X | ░ |║4
+ 
+3║ X | X | ░ | X | # |║3
+ 
+2║ X | O | X | X | X |║2
+ 
+1║ O | X | X | X | # |║1
+ 
+   a   b   c   d   e
+Your Turn..(Play : 12)
+   a   b   c   d   e
+
+5║ ░ | X | ░ | ░ | ░ |║5
+ 
+4║ ░ | ░ | ░ | X | # |║4
+ 
+3║ X | X | ░ | X | X |║3
+ 
+2║ X | O | X | X | X |║2
+ 
+1║ O | X | X | X | # |║1
+ 
+   a   b   c   d   e
+Computer's Turn..(Play : 13)
+   a   b   c   d   e
+
+5║ ░ | X | ░ | ░ | ░ |║5
+ 
+4║ ░ | ░ | X | X | # |║4
+ 
+3║ X | X | O | X | X |║3
+ 
+2║ X | ░ | X | X | X |║2
+ 
+1║ O | X | X | X | # |║1
+ 
+   a   b   c   d   e
+Your Turn..(Play : 14)
+   a   b   c   d   e
+
+5║ ░ | X | ░ | ░ | # |║5
+ 
+4║ ░ | ░ | X | X | X |║4
+ 
+3║ X | X | O | X | X |║3
+ 
+2║ X | ░ | X | X | X |║2
+ 
+1║ O | X | X | X | # |║1
+ 
+   a   b   c   d   e
+Computer's Turn..(Play : 15)
+   a   b   c   d   e
+
+5║ ░ | X | ░ | ░ | # |║5
+ 
+4║ ░ | O | X | X | X |║4
+ 
+3║ X | X | X | X | X |║3
+ 
+2║ X | ░ | X | X | X |║2
+ 
+1║ O | X | X | X | # |║1
+ 
+   a   b   c   d   e
+Your Turn..(Play : 16)
+   a   b   c   d   e
+
+5║ ░ | X | ░ | # | X |║5
+ 
+4║ ░ | O | X | X | X |║4
+ 
+3║ X | X | X | X | X |║3
+ 
+2║ X | ░ | X | X | X |║2
+ 
+1║ O | X | X | X | # |║1
+ 
+   a   b   c   d   e
+Computer's Turn..(Play : 17)
+   a   b   c   d   e
+
+5║ X | X | ░ | # | X |║5
+ 
+4║ O | ░ | X | X | X |║4
+ 
+3║ X | X | X | X | X |║3
+ 
+2║ X | ░ | X | X | X |║2
+ 
+1║ O | X | X | X | # |║1
+ 
+   a   b   c   d   e
+Your Turn..(Play : 18)
+   a   b   c   d   e
+
+5║ X | X | # | ░ | X |║5
+ 
+4║ O | X | X | X | X |║4
+ 
+3║ X | X | X | X | X |║3
+ 
+2║ X | ░ | X | X | X |║2
+ 
+1║ O | X | X | X | # |║1
+ 
+   a   b   c   d   e
+Computer's Turn..(Play : 19)
+   a   b   c   d   e
+
+5║ X | X | # | ░ | X |║5
+ 
+4║ O | X | X | X | X |║4
+ 
+3║ X | X | X | X | X |║3
+ 
+2║ X | O | X | X | X |║2
+ 
+1║ X | X | X | X | # |║1
+ 
+   a   b   c   d   e
+You Won!
+The number of calls to static evaluation were :156429
+Different move between AlphaBeta & Killer Heuristic at Play:1
+Different move between AlphaBeta & Killer Heuristic at Play:2
+Different move between AlphaBeta & Killer Heuristic at Play:3
+Different move between AlphaBeta & Killer Heuristic at Play:4
+Different move between AlphaBeta & Killer Heuristic at Play:5
+Different move between AlphaBeta & Killer Heuristic at Play:6
+Different move between AlphaBeta & Killer Heuristic at Play:7
+Different move between AlphaBeta & Killer Heuristic at Play:8
+Different move between AlphaBeta & Killer Heuristic at Play:9
+Different move between AlphaBeta & Killer Heuristic at Play:10
+Different move between AlphaBeta & Killer Heuristic at Play:11
+Different move between AlphaBeta & Killer Heuristic at Play:12
+Different move between AlphaBeta & Killer Heuristic at Play:13
+Different move between AlphaBeta & Killer Heuristic at Play:14
+Different move between AlphaBeta & Killer Heuristic at Play:15
+Different move between AlphaBeta & Killer Heuristic at Play:16
+Different move between AlphaBeta & History Heuristic at Play:17
+Different move between AlphaBeta & History Heuristic at Play:18
+Different move between AlphaBeta & History Heuristic at Play:19
+Alpha Beta disagrees with Killer Heuristic 16 times.
+Alpha Beta disagrees with History Heuristic 3 times.
+History Heuristic disagrees with Killer Heuristic 0 times.
